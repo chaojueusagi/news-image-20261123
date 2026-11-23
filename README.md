@@ -27,3 +27,23 @@ current time. Running it twice produces byte-identical output.
   `entry.png`, kept as a second take on the design
 - `main.py` — copies `entry.png` to `/output/entry.png`
 - `LICENSE` — MIT
+
+make.fun
+
+make.fun · news-image-20261123
+
+](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[
+
+make.fun
+
+rank
+
+](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[
+
+make.fun
+
+reward
+
+](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
