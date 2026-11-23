@@ -28,22 +28,15 @@ current time. Running it twice produces byte-identical output.
 - `main.py` — copies `entry.png` to `/output/entry.png`
 - `LICENSE` — MIT
 
-make.fun
-
-make.fun · news-image-20261123
-
-](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 [
+https://l.meta.ai/?u=https%3A%2F%2Fmake.fun%2Fbadge%2Fnews-image-20261123.svg&h=AUCL9__uz8jNz8VutOAGofD0z4lDazMP2-O5iprKc6pnQUCUgyFCbajazep5rWqxlpoZgafsepoekk4E9tSED5N7S3fvQAutmpHTCfhDeGnWvBnQv-kLmg
+](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
-make.fun
-
-rank
-
+[https://l.meta.ai/?u=https%3A%2F%2Fmake.fun%2Fbadge%2Fnews-image-20261123%2Fchaojueusagi%2Fnews-image-20261123%2Frank.svg&h=AUCL9__uz8jNz8VutOAGofD0z4lDazMP2-O5iprKc6pnQUCUgyFCbajazep5rWqxlpoZgafsepoekk4E9tSED5N7S3fvQAutmpHTCfhDeGnWvBnQv-kLmg
 ](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 [
-
-make.fun
-
-reward
-
+[https://l.meta.ai/?u=https%3A%2F%2Fmake.fun%2Fbadge%2Fnews-image-20261123%2Fchaojueusagi%2Fnews-image-20261123%2Freward.svg&h=AUCL9__uz8jNz8VutOAGofD0z4lDazMP2-O5iprKc6pnQUCUgyFCbajazep5rWqxlpoZgafsepoekk4E9tSED5N7S3fvQAutmpHTCfhDeGnWvBnQv-kLmg
 ](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
+
+
